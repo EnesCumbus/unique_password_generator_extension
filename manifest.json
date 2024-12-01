@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Benzersiz Şifre Oluşturucu",
+  "version": "1.0",
+  "description": "Bir butona tıklayarak benzersiz 10 karakterli şifre oluşturur.",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
